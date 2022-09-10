@@ -9,7 +9,7 @@
 
 ## 📌 Introduction
 ### Hello, I am Taemin Lim, a Junior full-stack developer <br> who loves to do projects with joyful people ☺️
-### Visit my [Portfolio page](https://devTaemin.github.io), For more inforation about me
+### Visit my [Portfolio page](https://devTaemin.github.io), For more information about me
 <br/>
 <br/>
  
