@@ -2,23 +2,63 @@
 
 <div align=center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devTaemin&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20&fontSize=90&desc=Hello,%20I%20am%20devTaemin)
+
+
+<!--소개-->
+
+## 📌 Introduction
+#### Hello! I am Taemin Lim, a Junior full-stack developer <br> who loves to do projects with joyful people ☺️
+#### Visit my [Portfolio](https://devTaemin.github.io), For more inforation
+<br/><br/>
+ 
+ 
+ <!--Skill-->
+  ## 📌 Skill
+
+  <!--FrontEnd-->
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+  <br/>
+  <!--BackEnd-->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <br/>
+  <!--Language, tool-->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  
+<br/>
+<br/>
+  
+ <!--Studying -->
+ 
+  ## 📌 Studying
+  <!--FrontEnd-->
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+  <!--BackEnd-->
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <!--Language, tool-->
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
+
+ <br/>
+ <br/> 
+ <br/>
+  
+ <!--Algorithm -->
+
+ ## 📌 Problem Solving
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devTaemin)](https://solved.ac/devTaemin)
+
+<br/><br/><br/>
+  
+
+ 
 </div>
 
-<!--
-### Hi there 👋
--->
-<!--
-**devTaemin/devTaemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+     
