@@ -2,14 +2,14 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=300&section=header&text=Welcome%20&fontSize=90&desc=Hello,%20I%20am%20devTaemin)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=300&section=header&text=Welcome%20&fontSize=90&desc=Hello,%20I%20am%20devTaemin&descAlign=50&descAlignY=65)
 
 
 <!--소개-->
 
 ## 📌 Introduction
-### Hello! I am Taemin Lim, a Junior full-stack developer <br> who loves to do projects with joyful people ☺️
-### Visit my [Portfolio](https://devTaemin.github.io), For more inforation
+### Hello, I am Taemin Lim, a Junior full-stack developer <br> who loves to do projects with joyful people ☺️
+### Visit my [Portfolio page](https://devTaemin.github.io), For more inforation about me
 <br/>
 <br/>
  
