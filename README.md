@@ -2,7 +2,7 @@
 > #### BackEnd Developer, Taemin Lim ([RESUME eng.ver](https://docs.google.com/document/d/1eIKgOrzBrYH9V1cI2Z8y5Bd7yUiaMuhcJ3lZxMpHLu4/edit?usp=sharing) |  [Portfolio.pdf](https://drive.google.com/file/d/1GVzghavcNAAiazw6y14bCXvvLVi54WE8/view?usp=sharing))
 <br>
 
-
+<!--
 ### 📌 Education
 - 경희대학교 국제학과, 컴퓨터공학과 전공
 <br>
@@ -17,60 +17,60 @@
 - 삼성 청년 소프트웨어 아카데미(SSAFY) 공통 프로젝트, 최우수 프로젝트 광주 2반 1등
 - 삼성 청년 소프트웨어 아카데미(SSAFY) 삼성전자 VD 사업부 프로젝트, 우수 프로젝트 전체 2등
 <br>
+-->
 
 
-### 📌 Skills
-<div align="center">
+<!-- ### 📌 Skills
+<div align="center"> -->
 <!-- FrontEnd -->
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/> -->
 
 <!-- BackEnd -->
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/> -->
  
 <!-- Database -->
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white"/>
-<br>
+<br> -->
  
 <!-- Language -->
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<br>
+<br> -->
  
 <!-- Cloud -->
-<img src="https://img.shields.io/badge/Amazon ec2-FF9900?style=flat&logo=Amazon ec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Amazon ec2-FF9900?style=flat&logo=Amazon ec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/> -->
 
 <!-- CI/CD -->
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/> 
 </div>
 <br>
 <br>
-
-
-### 📌 Studying
-<div align="center">
+-->
+<!-- ### 📌 Studying 
+<div align="center"> -->
 <!-- FrontEnd -->
 
 <!-- BackEnd -->
 
 <!-- Database -->
-<img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white"/> -->
 
 <!-- Language -->
 
 <!-- Cloud -->
 
 <!-- CI/CD -->
-<img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
 </div>
 <br>
 <br>
-
-
+-->
+<!--
 ## Activity
 ### 📌 삼성 청년 소프트웨어 아카데미 (SSAFY)
 - 삼성 청년 소프트웨어 아카데미 8기 수료(예정): 2022. 07 ~ 2023. 06
@@ -104,13 +104,12 @@
 - 오픽 Intermediate High
 - 토익 920 (Expired)
 <br>
-
+-->
 
 <!--Algorithm -->
-### 📌 Problem Solving
+<!-- ### 📌 Problem Solving -->
 <div align="center">
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devTaemin)](https://solved.ac/devTaemin)
  
 </div>
-<br>
