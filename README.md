@@ -1,4 +1,5 @@
 ### 👋 Bienvenidos a mi Github
+<!--
 > #### BackEnd Developer, Taemin Lim ([RESUME eng.ver](https://docs.google.com/document/d/1eIKgOrzBrYH9V1cI2Z8y5Bd7yUiaMuhcJ3lZxMpHLu4/edit?usp=sharing) |  [Portfolio.pdf](https://drive.google.com/file/d/1GVzghavcNAAiazw6y14bCXvvLVi54WE8/view?usp=sharing))
 <br>
 
